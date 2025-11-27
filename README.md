@@ -76,5 +76,5 @@ Follow these steps to set up the environment and run the model.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Rowzatul-2001/SG-Net-Segmentation.git](https://github.com/your-username/SG-Net-Segmentation.git)
+git clone [https://github.com/Rowzatul-2001/SG-Net-Segmentation.git](https://github.com/Rowzatul-2001/SG-Net-Segmentation.git)
 cd SG-Net-Segmentation
